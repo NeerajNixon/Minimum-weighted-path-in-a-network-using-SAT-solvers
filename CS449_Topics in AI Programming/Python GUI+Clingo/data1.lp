@@ -1,0 +1,1 @@
+node(1).node(2).node(3).node(4).node(5).node(6).node(7).node(8).node(9).node(10).connect(1,4,1).connect(1,7,1).connect(1,9,1).connect(2,4,1).connect(2,6,1).connect(3,7,10).connect(3,8,1).connect(3,9,1).connect(4,6,1).connect(5,6,1).connect(5,10,1).connect(8,10,1).path(3,7).
